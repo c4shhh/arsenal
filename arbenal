@@ -1,3 +1,5 @@
+wait(1)
+
 local Camera = workspace.CurrentCamera
 local uis = game:GetService("UserInputService")
 local ts = game:GetService("TweenService")
