@@ -1,8 +1,8 @@
 print("Loading Arsenal Cash Hub ⌚")
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-Title = "Untitled Arsenal Script",
-Text = "Loading . . . . you're Whitelisted!", 
+Title = "15x",
+Text = "You're Whitelisted!", 
 
 Duration = 10 
 })
