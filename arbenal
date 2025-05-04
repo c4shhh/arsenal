@@ -1,4 +1,4 @@
-print("Loading Arsenal Cash hub V2.0")
+print("Loading Arsenal Cash Hub ⌚")
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
 Title = "Untitled Arsenal Script",
